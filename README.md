@@ -2,7 +2,7 @@
 # KeyPressed -js
 
 This is a simple HTML and JavaScript code that allows the user to enter a keyword and then displays the keyword on the screen.
-Hosted link:
+Hosted link: https://ronaksharma57.github.io/KeyWord-Pressed-js/
 
 ## Step 1: HTML Code
 
