@@ -1,4 +1,4 @@
- ```
+
 # KeyPressed -js
 
 This is a simple HTML and JavaScript code that allows the user to enter a keyword and then displays the keyword on the screen.
@@ -72,4 +72,3 @@ document.addEventListener("keydown", function (event) {
 ## Conclusion
 
 This is a simple example of how to create a simple web page that allows the user to enter a keyword and then displays the keyword on the screen.
-```
